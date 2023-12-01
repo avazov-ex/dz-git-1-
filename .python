@@ -1,3 +1,4 @@
 
 maxx = [int(x) for x in range(10)]
-print(max(maxx))
+print(min(maxx))
+pomenyal na min
